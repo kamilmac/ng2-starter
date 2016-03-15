@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "app/**/*.js": true,
+        "app/**/*.js.map": true
+    },
+    "search.exclude": {
+        "node_modules": true,
+        "typings": true
+    },
+    "editor.fontSize": 13,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": true
+}
