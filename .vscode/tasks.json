@@ -1,0 +1,12 @@
+{
+  "command": "npm",
+  "windows": {
+    "command": "npm.cmd"
+  },
+  "tasks": [
+    {
+      "taskName": "start",
+      "isBuildCommand": true
+    }
+  ]
+}

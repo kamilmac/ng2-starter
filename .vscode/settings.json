@@ -1,11 +1,10 @@
 {
     "files.exclude": {
         "node_modules": true,
-        "app/**/*.js": true,
-        "app/**/*.js.map": true
+        "app/**/*.js*": true,
+        "app/**/*.css": { "when": "$(basename).post.css" }
     },
     "search.exclude": {
-        "node_modules": true,
         "typings": true
     },
     "editor.fontSize": 13,
