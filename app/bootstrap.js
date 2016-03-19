@@ -1,3 +1,4 @@
+/// <reference path="../node_modules/angular2/typings/browser.d.ts"/>
 System.register(['angular2/platform/browser', './app.component'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
@@ -15,4 +16,5 @@ System.register(['angular2/platform/browser', './app.component'], function(expor
         }
     }
 });
+
 //# sourceMappingURL=bootstrap.js.map

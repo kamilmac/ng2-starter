@@ -1,1 +1,1 @@
-{"version":3,"file":"bootstrap.js","sourceRoot":"","sources":["bootstrap.ts"],"names":[],"mappings":";;;;;;;;;;;;;YAGA,mBAAS,CAAC,4BAAY,CAAC,CAAC"}
+{"version":3,"sources":["bootstrap.ts"],"names":[],"mappings":"AAAA,qEAAqE;;;;;;;;;;;;;;YAKrE,mBAAS,CAAC,4BAAY,CAAC,CAAC","file":"bootstrap.js","sourcesContent":["/// <reference path=\"../node_modules/angular2/typings/browser.d.ts\"/>\r\n\r\nimport {bootstrap}    from 'angular2/platform/browser';\r\nimport {AppComponent} from './app.component';\r\n\r\nbootstrap(AppComponent);\r\n"],"sourceRoot":"/source/"}
